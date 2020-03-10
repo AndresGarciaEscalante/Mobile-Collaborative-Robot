@@ -1,7 +1,7 @@
 # Mobile Collaborative Robot
 ## Using OMRON AIV and TM5-700
 
-![](GIF/Robot.gif)
+![](Gif/Robot.gif)
 
 ## Project Description
 This project is part of the **Industry 4.0 Laboratory** at Tecnológico de Monterrey, which started in 2019. The **Mobile Collaborative Robot** needs to translate 3D materials by grasping them using the **TM5-700** from the manufacturing station and move them using the **OMRON AIV** to the assembly station **without human supervision**.
